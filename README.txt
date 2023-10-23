@@ -1,3 +1,4 @@
+`
 2023-10-23 09:37:22.736 13635-13635 GameActivity            com.example.jni_vulkan_test          D  GameActivity_register
 2023-10-23 09:37:22.804 13635-13664 android_main            com.example.jni_vulkan_test          D   <>-----------------------<>in android main
 2023-10-23 09:37:22.804 13635-13664 android_main            com.example.jni_vulkan_test          I  Entry point 
@@ -101,3 +102,4 @@
 2023-10-23 09:37:30.833  6620-13684 DropBoxManagerService   system_process                       I  add tag=data_app_native_crash isTagEnabled=true flags=0x2
 2023-10-23 09:37:30.893  6620-13683 ActivityTaskManager     system_process                       W    Force finishing activity com.example.jni_vulkan_test/.VulkanActivity
 2023-10-23 09:37:30.943  6620-6706  BootReceiver            system_process                       I  Copying /data/tombstones/tombstone_04 to DropBox (SYSTEM_TOMBSTONE)
+`
